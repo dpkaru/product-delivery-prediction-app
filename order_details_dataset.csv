@@ -1,0 +1,1001 @@
+Product_Category,Customer_Location,Shipping_Method,Delivery_Time
+Electronics,New York,Same-Day,2.2
+Furniture,Los Angeles,Standard,9.9
+Clothing,New York,Same-Day,1.3
+Toys,New York,Same-Day,2.3
+Books,New York,Standard,6.9
+Electronics,Los Angeles,Standard,8.9
+Toys,Phoenix,Standard,9.8
+Toys,Los Angeles,Same-Day,2.9
+Toys,Houston,Standard,8.3
+Books,Phoenix,Express,4.8
+Electronics,Los Angeles,Same-Day,2.8
+Books,Chicago,Express,3.3
+Clothing,Los Angeles,Express,4.1
+Electronics,New York,Express,3.0
+Electronics,Chicago,Express,3.6
+Toys,Chicago,Standard,7.7
+Books,Phoenix,Standard,8.0
+Books,New York,Same-Day,1.2
+Furniture,Phoenix,Express,6.0
+Toys,Los Angeles,Same-Day,1.8
+Electronics,New York,Same-Day,2.7
+Clothing,Chicago,Standard,7.4
+Clothing,New York,Express,3.0
+Furniture,Houston,Same-Day,3.3
+Furniture,Los Angeles,Express,5.7
+Furniture,Los Angeles,Same-Day,4.1
+Furniture,New York,Same-Day,2.4
+Clothing,Phoenix,Same-Day,2.7
+Clothing,Los Angeles,Express,3.7
+Books,Chicago,Same-Day,1.4
+Toys,Los Angeles,Same-Day,2.2
+Furniture,New York,Standard,9.9
+Electronics,Chicago,Express,4.5
+Furniture,New York,Standard,8.5
+Toys,Chicago,Standard,8.4
+Books,Houston,Same-Day,1.4
+Books,Los Angeles,Express,4.1
+Clothing,Los Angeles,Same-Day,1.0
+Toys,Phoenix,Express,4.3
+Toys,Houston,Same-Day,2.6
+Books,Chicago,Standard,7.9
+Clothing,Phoenix,Express,4.6
+Electronics,New York,Standard,7.9
+Clothing,Los Angeles,Same-Day,1.8
+Books,Phoenix,Standard,7.8
+Books,Houston,Same-Day,1.6
+Books,Phoenix,Express,4.3
+Toys,New York,Same-Day,2.0
+Electronics,Phoenix,Express,5.7
+Furniture,New York,Express,4.1
+Books,Los Angeles,Express,4.2
+Electronics,Chicago,Same-Day,2.3
+Clothing,Phoenix,Standard,8.2
+Furniture,Phoenix,Same-Day,4.8
+Clothing,Los Angeles,Express,4.5
+Clothing,Phoenix,Same-Day,3.0
+Electronics,Phoenix,Express,5.1
+Books,New York,Standard,6.8
+Furniture,Chicago,Standard,9.7
+Electronics,Los Angeles,Same-Day,3.5
+Electronics,New York,Same-Day,1.8
+Books,New York,Same-Day,0.9
+Clothing,Los Angeles,Same-Day,1.4
+Books,Phoenix,Standard,7.9
+Furniture,Phoenix,Same-Day,4.9
+Books,Los Angeles,Same-Day,2.7
+Clothing,Chicago,Express,3.5
+Furniture,Houston,Same-Day,4.5
+Books,New York,Standard,7.2
+Clothing,New York,Express,2.7
+Electronics,Phoenix,Same-Day,3.7
+Clothing,Phoenix,Standard,9.3
+Electronics,New York,Same-Day,2.0
+Electronics,Los Angeles,Standard,9.8
+Electronics,Chicago,Standard,7.2
+Toys,Los Angeles,Express,4.9
+Books,Los Angeles,Same-Day,2.0
+Clothing,Phoenix,Same-Day,2.4
+Books,Los Angeles,Express,4.0
+Books,Los Angeles,Standard,7.0
+Electronics,Houston,Express,4.9
+Books,Houston,Express,4.2
+Electronics,New York,Standard,8.7
+Books,Chicago,Standard,7.2
+Clothing,Los Angeles,Standard,7.6
+Toys,Houston,Standard,8.2
+Books,Los Angeles,Express,4.5
+Books,Los Angeles,Standard,8.2
+Books,Phoenix,Standard,8.2
+Electronics,Phoenix,Standard,9.8
+Electronics,Los Angeles,Standard,9.0
+Books,Houston,Express,4.5
+Clothing,Houston,Standard,7.6
+Clothing,Houston,Standard,7.8
+Books,Chicago,Express,3.3
+Furniture,Houston,Same-Day,3.3
+Toys,Houston,Standard,8.6
+Clothing,Chicago,Standard,7.6
+Electronics,Phoenix,Same-Day,3.5
+Toys,New York,Same-Day,1.4
+Furniture,New York,Standard,8.3
+Toys,Houston,Same-Day,2.3
+Toys,Los Angeles,Standard,8.3
+Toys,New York,Standard,7.1
+Electronics,Phoenix,Standard,9.4
+Clothing,Houston,Standard,8.2
+Toys,Los Angeles,Same-Day,3.4
+Toys,New York,Same-Day,1.6
+Electronics,Houston,Same-Day,3.1
+Toys,Phoenix,Same-Day,3.0
+Furniture,Chicago,Standard,8.5
+Furniture,Los Angeles,Express,6.0
+Books,Los Angeles,Same-Day,2.0
+Furniture,Houston,Express,7.2
+Electronics,New York,Express,3.9
+Toys,Phoenix,Standard,9.2
+Electronics,Phoenix,Standard,9.5
+Toys,Chicago,Standard,7.4
+Furniture,New York,Standard,9.6
+Furniture,Chicago,Standard,9.9
+Books,Phoenix,Same-Day,2.9
+Furniture,Phoenix,Same-Day,4.0
+Toys,New York,Same-Day,2.2
+Toys,Chicago,Same-Day,1.3
+Electronics,Los Angeles,Express,5.3
+Electronics,New York,Same-Day,3.1
+Toys,Los Angeles,Express,4.0
+Furniture,Phoenix,Standard,10.2
+Furniture,Los Angeles,Same-Day,4.0
+Furniture,Phoenix,Express,6.2
+Furniture,New York,Standard,8.2
+Books,Chicago,Standard,7.5
+Electronics,Chicago,Standard,8.0
+Furniture,Los Angeles,Same-Day,4.2
+Books,Phoenix,Same-Day,2.0
+Books,Phoenix,Standard,9.3
+Electronics,New York,Same-Day,1.6
+Clothing,Phoenix,Standard,8.3
+Furniture,Phoenix,Same-Day,4.9
+Clothing,Houston,Standard,7.4
+Electronics,Chicago,Express,4.6
+Electronics,Chicago,Standard,9.2
+Clothing,New York,Express,2.2
+Toys,Houston,Same-Day,2.6
+Clothing,Los Angeles,Standard,8.1
+Clothing,Houston,Standard,8.4
+Clothing,Chicago,Express,2.9
+Clothing,Chicago,Standard,6.8
+Electronics,Houston,Standard,9.3
+Books,Los Angeles,Standard,8.1
+Books,Chicago,Express,3.6
+Clothing,Los Angeles,Standard,8.2
+Clothing,Houston,Express,3.7
+Furniture,New York,Express,5.1
+Furniture,Phoenix,Express,6.6
+Toys,Chicago,Standard,7.6
+Electronics,Chicago,Standard,9.4
+Toys,Chicago,Standard,8.2
+Electronics,Phoenix,Express,4.9
+Furniture,Chicago,Express,5.8
+Toys,Phoenix,Standard,8.5
+Books,Phoenix,Standard,8.9
+Furniture,New York,Same-Day,3.6
+Books,New York,Same-Day,0.6
+Toys,Los Angeles,Express,5.0
+Books,New York,Same-Day,1.2
+Furniture,Phoenix,Express,6.9
+Electronics,Chicago,Same-Day,3.4
+Furniture,Houston,Express,5.9
+Books,Chicago,Same-Day,1.1
+Clothing,Los Angeles,Express,3.6
+Books,Los Angeles,Same-Day,1.6
+Toys,Chicago,Express,4.0
+Toys,New York,Express,3.7
+Furniture,Los Angeles,Express,6.1
+Toys,Phoenix,Same-Day,3.4
+Furniture,Houston,Express,6.0
+Books,Los Angeles,Same-Day,2.7
+Books,Los Angeles,Same-Day,1.9
+Electronics,Chicago,Same-Day,3.9
+Toys,Chicago,Standard,8.3
+Clothing,Chicago,Standard,7.1
+Clothing,Los Angeles,Standard,7.5
+Electronics,Los Angeles,Express,5.2
+Toys,New York,Express,3.4
+Books,Phoenix,Standard,8.9
+Books,Houston,Express,4.2
+Clothing,Los Angeles,Same-Day,2.0
+Electronics,New York,Express,3.6
+Clothing,Los Angeles,Same-Day,1.2
+Toys,Houston,Standard,8.3
+Toys,Los Angeles,Standard,8.9
+Books,Los Angeles,Express,4.1
+Toys,Phoenix,Same-Day,2.4
+Furniture,Houston,Same-Day,4.1
+Toys,Houston,Same-Day,2.7
+Books,Los Angeles,Same-Day,1.6
+Books,Houston,Express,4.1
+Clothing,Chicago,Same-Day,1.5
+Books,Los Angeles,Express,3.4
+Books,New York,Same-Day,1.2
+Furniture,Los Angeles,Express,6.3
+Furniture,Chicago,Same-Day,4.0
+Electronics,Los Angeles,Standard,9.5
+Clothing,Houston,Same-Day,1.3
+Clothing,Los Angeles,Standard,7.5
+Books,Houston,Express,4.3
+Toys,Houston,Express,4.8
+Electronics,Los Angeles,Express,5.3
+Books,Phoenix,Same-Day,4.4
+Electronics,Phoenix,Express,5.8
+Books,New York,Express,3.6
+Furniture,Houston,Express,6.5
+Toys,Phoenix,Same-Day,3.3
+Clothing,Houston,Standard,7.8
+Furniture,Houston,Express,6.4
+Electronics,Houston,Express,4.6
+Books,Los Angeles,Express,3.9
+Clothing,Phoenix,Same-Day,2.3
+Electronics,Houston,Same-Day,3.0
+Toys,New York,Standard,8.7
+Books,Los Angeles,Express,3.1
+Clothing,New York,Express,3.3
+Books,Chicago,Standard,6.7
+Books,Chicago,Express,3.3
+Books,Chicago,Express,4.0
+Furniture,New York,Express,5.0
+Electronics,Phoenix,Standard,9.0
+Furniture,Los Angeles,Same-Day,3.6
+Electronics,New York,Standard,8.3
+Clothing,Los Angeles,Standard,7.6
+Toys,Los Angeles,Standard,8.6
+Clothing,Houston,Same-Day,2.0
+Electronics,Phoenix,Standard,9.2
+Books,Chicago,Express,4.6
+Clothing,Phoenix,Same-Day,2.8
+Electronics,Los Angeles,Express,4.0
+Electronics,Phoenix,Standard,9.6
+Furniture,Phoenix,Same-Day,4.2
+Books,Houston,Same-Day,2.4
+Clothing,New York,Same-Day,0.6
+Clothing,New York,Same-Day,0.9
+Furniture,Phoenix,Standard,10.8
+Toys,New York,Express,3.9
+Toys,Houston,Same-Day,1.9
+Furniture,New York,Same-Day,2.8
+Furniture,New York,Express,4.8
+Books,New York,Express,2.7
+Furniture,Houston,Same-Day,4.9
+Clothing,Houston,Standard,8.2
+Toys,Chicago,Same-Day,1.4
+Toys,Houston,Express,5.0
+Books,Phoenix,Express,5.6
+Furniture,Los Angeles,Standard,10.5
+Furniture,Houston,Standard,9.2
+Books,Phoenix,Same-Day,2.3
+Books,Chicago,Standard,8.1
+Books,Chicago,Standard,7.1
+Books,Los Angeles,Express,4.2
+Furniture,Chicago,Express,5.9
+Toys,Chicago,Same-Day,1.5
+Electronics,Phoenix,Standard,9.5
+Electronics,Los Angeles,Same-Day,1.4
+Books,Houston,Same-Day,1.5
+Clothing,Houston,Same-Day,1.9
+Books,Houston,Standard,7.4
+Electronics,Chicago,Standard,9.3
+Books,Los Angeles,Express,3.3
+Toys,Chicago,Express,3.8
+Toys,Phoenix,Express,5.1
+Books,Phoenix,Express,5.2
+Furniture,Houston,Express,5.3
+Furniture,Chicago,Standard,10.1
+Electronics,Los Angeles,Express,5.0
+Electronics,Phoenix,Same-Day,3.0
+Clothing,Los Angeles,Standard,8.2
+Books,Chicago,Same-Day,1.6
+Toys,Phoenix,Same-Day,2.7
+Furniture,New York,Standard,9.0
+Furniture,Los Angeles,Express,5.8
+Clothing,Chicago,Standard,7.6
+Toys,Los Angeles,Express,4.8
+Electronics,New York,Same-Day,2.8
+Furniture,Los Angeles,Same-Day,3.4
+Books,New York,Standard,8.1
+Toys,Chicago,Express,3.0
+Books,Houston,Express,3.9
+Clothing,New York,Express,3.3
+Books,New York,Standard,7.1
+Books,Houston,Standard,7.7
+Toys,New York,Standard,7.4
+Clothing,Phoenix,Express,4.3
+Electronics,Los Angeles,Standard,8.7
+Toys,Houston,Same-Day,2.9
+Toys,Phoenix,Standard,9.2
+Toys,Houston,Express,4.2
+Books,Chicago,Same-Day,1.9
+Books,Chicago,Same-Day,1.7
+Toys,New York,Same-Day,1.9
+Electronics,Los Angeles,Same-Day,3.3
+Clothing,Chicago,Same-Day,1.1
+Electronics,Los Angeles,Standard,8.7
+Clothing,Phoenix,Standard,8.9
+Clothing,New York,Express,3.3
+Books,Phoenix,Express,4.5
+Furniture,New York,Standard,9.1
+Furniture,Chicago,Same-Day,4.1
+Books,New York,Same-Day,0.7
+Clothing,Chicago,Same-Day,1.8
+Toys,Los Angeles,Express,4.4
+Electronics,Phoenix,Standard,9.4
+Clothing,Chicago,Standard,8.0
+Electronics,New York,Standard,8.4
+Furniture,Phoenix,Same-Day,4.9
+Toys,Chicago,Express,4.7
+Electronics,Houston,Same-Day,3.0
+Furniture,Houston,Express,6.3
+Toys,Phoenix,Express,4.8
+Books,New York,Same-Day,1.2
+Electronics,Houston,Same-Day,2.9
+Furniture,Phoenix,Express,6.5
+Electronics,New York,Standard,8.3
+Toys,Phoenix,Standard,8.6
+Furniture,Phoenix,Standard,11.5
+Clothing,Houston,Same-Day,1.5
+Books,Chicago,Standard,6.9
+Toys,Houston,Same-Day,3.1
+Books,New York,Express,3.4
+Furniture,Houston,Express,6.3
+Furniture,New York,Standard,9.3
+Furniture,Houston,Same-Day,4.0
+Books,Chicago,Same-Day,1.1
+Books,Phoenix,Standard,8.5
+Books,New York,Express,2.7
+Furniture,Chicago,Standard,10.0
+Books,Phoenix,Standard,8.4
+Toys,Houston,Express,4.1
+Electronics,Los Angeles,Same-Day,2.8
+Furniture,Phoenix,Express,6.7
+Books,New York,Standard,6.7
+Furniture,Phoenix,Standard,10.1
+Furniture,Houston,Same-Day,4.1
+Books,New York,Standard,7.1
+Toys,Los Angeles,Same-Day,2.2
+Clothing,Chicago,Same-Day,1.3
+Electronics,Phoenix,Express,5.6
+Electronics,Los Angeles,Standard,8.3
+Books,New York,Same-Day,0.3
+Clothing,Houston,Same-Day,1.6
+Furniture,Phoenix,Same-Day,4.4
+Furniture,Houston,Express,6.2
+Books,Los Angeles,Express,4.7
+Toys,Los Angeles,Express,4.9
+Clothing,Phoenix,Same-Day,2.4
+Clothing,New York,Express,3.0
+Books,Chicago,Same-Day,1.0
+Furniture,New York,Express,5.0
+Furniture,Phoenix,Same-Day,4.4
+Books,Los Angeles,Express,4.2
+Toys,Houston,Express,4.1
+Furniture,Phoenix,Same-Day,4.8
+Books,Houston,Express,4.8
+Clothing,Los Angeles,Same-Day,1.9
+Books,Los Angeles,Express,4.2
+Electronics,Chicago,Same-Day,2.8
+Books,Houston,Express,3.8
+Clothing,Houston,Standard,8.1
+Clothing,Phoenix,Same-Day,2.5
+Furniture,New York,Express,5.0
+Electronics,Phoenix,Express,5.1
+Electronics,Los Angeles,Express,5.0
+Clothing,New York,Express,3.2
+Furniture,Chicago,Same-Day,4.2
+Books,New York,Express,3.5
+Toys,Houston,Express,5.6
+Books,Phoenix,Standard,8.1
+Toys,New York,Standard,7.9
+Furniture,Los Angeles,Same-Day,4.1
+Electronics,Houston,Standard,10.1
+Electronics,Houston,Standard,8.6
+Furniture,New York,Standard,8.6
+Furniture,New York,Express,4.7
+Furniture,Chicago,Express,4.4
+Clothing,Los Angeles,Same-Day,1.7
+Books,Phoenix,Same-Day,2.1
+Clothing,Los Angeles,Standard,8.1
+Electronics,Phoenix,Express,5.7
+Toys,Los Angeles,Express,5.4
+Toys,Los Angeles,Standard,9.0
+Books,Chicago,Express,3.2
+Furniture,New York,Express,4.6
+Furniture,Phoenix,Standard,10.7
+Electronics,Houston,Express,4.3
+Toys,Chicago,Same-Day,2.9
+Books,Chicago,Express,4.1
+Furniture,Los Angeles,Express,5.8
+Books,New York,Standard,6.1
+Books,Phoenix,Express,5.2
+Toys,Chicago,Same-Day,1.9
+Furniture,New York,Same-Day,3.6
+Books,Chicago,Standard,6.7
+Toys,New York,Same-Day,1.2
+Books,Chicago,Standard,7.5
+Toys,Chicago,Standard,8.0
+Clothing,Phoenix,Express,4.3
+Clothing,New York,Same-Day,1.3
+Electronics,Chicago,Express,4.0
+Electronics,Phoenix,Express,5.4
+Clothing,New York,Express,3.1
+Furniture,Houston,Standard,10.3
+Clothing,Los Angeles,Same-Day,2.4
+Furniture,Phoenix,Same-Day,3.9
+Furniture,Los Angeles,Express,5.2
+Books,Chicago,Same-Day,2.1
+Furniture,New York,Express,5.2
+Electronics,Los Angeles,Standard,8.6
+Books,Phoenix,Express,5.3
+Electronics,Houston,Standard,9.1
+Furniture,Phoenix,Standard,11.1
+Books,Chicago,Same-Day,1.5
+Furniture,Phoenix,Express,7.5
+Furniture,New York,Same-Day,3.9
+Clothing,Houston,Standard,7.9
+Toys,Phoenix,Express,5.5
+Toys,Los Angeles,Same-Day,2.8
+Electronics,Houston,Same-Day,3.7
+Furniture,Houston,Standard,9.5
+Clothing,New York,Standard,7.3
+Furniture,Houston,Standard,10.5
+Electronics,Los Angeles,Same-Day,2.1
+Clothing,Houston,Express,3.4
+Furniture,Phoenix,Express,5.5
+Toys,Los Angeles,Express,4.4
+Electronics,Houston,Same-Day,3.4
+Books,Chicago,Standard,8.3
+Furniture,Los Angeles,Express,6.0
+Books,Los Angeles,Express,4.8
+Electronics,Chicago,Same-Day,1.8
+Furniture,New York,Express,4.1
+Furniture,Los Angeles,Standard,10.0
+Books,New York,Same-Day,1.2
+Clothing,Phoenix,Standard,8.5
+Electronics,Chicago,Standard,7.5
+Clothing,Phoenix,Standard,8.5
+Electronics,Phoenix,Standard,8.8
+Toys,Los Angeles,Standard,8.8
+Furniture,Los Angeles,Same-Day,4.2
+Electronics,Chicago,Standard,8.0
+Clothing,Phoenix,Express,4.2
+Clothing,New York,Same-Day,0.5
+Electronics,Los Angeles,Standard,9.0
+Furniture,Los Angeles,Same-Day,4.5
+Furniture,New York,Standard,8.5
+Furniture,New York,Standard,9.3
+Books,Phoenix,Standard,8.2
+Electronics,Houston,Express,4.6
+Furniture,Phoenix,Same-Day,4.4
+Electronics,Houston,Same-Day,2.5
+Clothing,Phoenix,Standard,8.2
+Toys,Chicago,Express,3.4
+Electronics,New York,Express,5.0
+Books,Houston,Same-Day,2.0
+Electronics,Houston,Same-Day,2.7
+Books,New York,Standard,7.1
+Furniture,Phoenix,Standard,10.4
+Electronics,Los Angeles,Express,4.9
+Toys,Phoenix,Same-Day,3.3
+Furniture,Houston,Same-Day,4.4
+Toys,Chicago,Express,3.7
+Toys,Phoenix,Express,4.7
+Electronics,New York,Same-Day,1.9
+Toys,Los Angeles,Express,3.3
+Books,Los Angeles,Express,3.2
+Furniture,Houston,Express,6.7
+Books,New York,Express,3.8
+Books,Chicago,Same-Day,1.4
+Furniture,Chicago,Standard,9.8
+Books,New York,Standard,7.2
+Electronics,New York,Express,5.5
+Electronics,Chicago,Standard,9.1
+Toys,New York,Same-Day,1.4
+Toys,Phoenix,Express,4.5
+Electronics,Houston,Express,4.2
+Books,New York,Express,3.1
+Toys,Chicago,Express,3.6
+Electronics,Phoenix,Same-Day,2.8
+Clothing,Los Angeles,Same-Day,1.7
+Books,Los Angeles,Standard,7.5
+Furniture,Phoenix,Express,7.3
+Electronics,Chicago,Same-Day,2.9
+Clothing,Houston,Same-Day,2.0
+Toys,Phoenix,Same-Day,3.7
+Toys,New York,Same-Day,1.5
+Furniture,New York,Standard,8.6
+Furniture,Chicago,Express,6.3
+Furniture,New York,Standard,9.3
+Clothing,Phoenix,Same-Day,2.0
+Books,New York,Standard,6.9
+Electronics,New York,Same-Day,1.6
+Toys,Los Angeles,Express,3.8
+Books,Houston,Express,4.5
+Clothing,Chicago,Express,4.5
+Furniture,Phoenix,Same-Day,3.8
+Electronics,New York,Standard,8.3
+Clothing,Phoenix,Standard,8.2
+Electronics,Chicago,Express,4.3
+Books,Houston,Same-Day,1.7
+Books,Houston,Express,3.6
+Clothing,Phoenix,Standard,8.5
+Furniture,Houston,Standard,9.6
+Furniture,Phoenix,Express,6.6
+Toys,Chicago,Standard,8.0
+Clothing,Houston,Same-Day,1.9
+Electronics,New York,Standard,7.5
+Furniture,Los Angeles,Standard,9.7
+Furniture,Chicago,Express,5.9
+Electronics,New York,Express,4.3
+Books,Los Angeles,Standard,7.5
+Books,Phoenix,Same-Day,2.5
+Clothing,Phoenix,Same-Day,2.9
+Furniture,New York,Express,4.2
+Electronics,Houston,Standard,9.3
+Books,New York,Express,2.7
+Toys,Houston,Same-Day,2.8
+Books,Houston,Express,3.6
+Electronics,Houston,Standard,8.1
+Furniture,Los Angeles,Same-Day,3.2
+Books,Chicago,Standard,7.5
+Books,New York,Standard,7.1
+Books,Phoenix,Express,4.0
+Toys,New York,Express,3.8
+Furniture,Chicago,Standard,8.7
+Furniture,Los Angeles,Standard,10.0
+Toys,New York,Same-Day,0.9
+Toys,Los Angeles,Express,4.2
+Furniture,Los Angeles,Standard,10.0
+Electronics,Los Angeles,Express,4.6
+Clothing,Los Angeles,Same-Day,1.8
+Clothing,New York,Standard,7.5
+Books,Houston,Same-Day,1.7
+Toys,Houston,Same-Day,2.9
+Toys,Phoenix,Express,4.4
+Furniture,Los Angeles,Express,6.3
+Electronics,Houston,Express,5.7
+Furniture,Chicago,Same-Day,2.3
+Electronics,Chicago,Same-Day,2.1
+Electronics,Chicago,Express,4.8
+Books,New York,Standard,6.9
+Furniture,Chicago,Standard,9.7
+Electronics,Phoenix,Same-Day,3.2
+Toys,Houston,Express,4.5
+Toys,Phoenix,Same-Day,2.9
+Electronics,Houston,Same-Day,3.6
+Clothing,Chicago,Same-Day,1.6
+Books,Phoenix,Standard,8.7
+Electronics,Houston,Standard,8.8
+Furniture,New York,Same-Day,2.8
+Clothing,New York,Standard,6.8
+Books,Houston,Same-Day,2.2
+Toys,Phoenix,Standard,8.8
+Furniture,Chicago,Express,5.6
+Books,Houston,Express,5.0
+Toys,New York,Same-Day,1.9
+Furniture,New York,Express,4.8
+Electronics,Phoenix,Same-Day,4.1
+Books,Chicago,Express,3.3
+Toys,Los Angeles,Express,3.5
+Electronics,Phoenix,Same-Day,3.0
+Clothing,Chicago,Express,2.6
+Books,Los Angeles,Same-Day,1.8
+Electronics,Chicago,Same-Day,2.5
+Books,Chicago,Standard,8.3
+Toys,New York,Same-Day,1.7
+Books,Phoenix,Express,4.4
+Electronics,Chicago,Express,4.9
+Clothing,Los Angeles,Express,2.9
+Books,Los Angeles,Standard,8.1
+Clothing,Los Angeles,Standard,8.4
+Furniture,New York,Same-Day,2.3
+Toys,Phoenix,Standard,9.6
+Furniture,Phoenix,Standard,10.7
+Toys,Houston,Standard,8.3
+Clothing,Los Angeles,Same-Day,2.3
+Toys,Los Angeles,Same-Day,3.6
+Books,New York,Express,3.1
+Furniture,Los Angeles,Express,6.1
+Toys,Chicago,Same-Day,1.8
+Books,Los Angeles,Same-Day,1.6
+Clothing,Chicago,Express,3.9
+Clothing,Chicago,Same-Day,1.1
+Toys,Houston,Express,4.5
+Furniture,Houston,Same-Day,3.8
+Toys,Houston,Standard,8.7
+Clothing,Phoenix,Standard,8.7
+Furniture,New York,Same-Day,3.5
+Books,Chicago,Same-Day,1.2
+Electronics,Phoenix,Standard,9.4
+Furniture,New York,Standard,8.5
+Furniture,Houston,Same-Day,3.8
+Clothing,Houston,Standard,8.2
+Clothing,Houston,Express,4.4
+Electronics,Houston,Standard,8.5
+Books,Phoenix,Express,4.9
+Clothing,Houston,Standard,8.7
+Furniture,Los Angeles,Standard,10.2
+Furniture,New York,Same-Day,3.9
+Furniture,Los Angeles,Standard,9.6
+Electronics,Chicago,Express,3.9
+Clothing,Houston,Express,3.1
+Toys,New York,Standard,8.2
+Electronics,Chicago,Standard,8.8
+Clothing,Phoenix,Same-Day,2.5
+Toys,Phoenix,Express,5.1
+Electronics,Chicago,Standard,7.9
+Furniture,New York,Standard,10.2
+Clothing,Houston,Same-Day,2.1
+Toys,Houston,Standard,8.6
+Electronics,Houston,Same-Day,3.4
+Toys,New York,Same-Day,1.7
+Toys,Phoenix,Standard,9.1
+Clothing,Chicago,Express,3.1
+Electronics,Phoenix,Express,5.7
+Clothing,Phoenix,Express,5.4
+Clothing,New York,Same-Day,1.7
+Furniture,New York,Same-Day,3.8
+Toys,Phoenix,Same-Day,2.7
+Toys,New York,Express,3.0
+Books,New York,Same-Day,0.9
+Books,Chicago,Express,3.5
+Electronics,Chicago,Standard,9.0
+Furniture,Los Angeles,Same-Day,3.2
+Electronics,Phoenix,Same-Day,4.3
+Furniture,Los Angeles,Standard,9.9
+Furniture,Phoenix,Express,6.3
+Clothing,Houston,Same-Day,1.5
+Books,Los Angeles,Standard,7.2
+Electronics,Houston,Standard,9.4
+Furniture,Los Angeles,Standard,10.0
+Clothing,New York,Express,2.4
+Furniture,Phoenix,Express,5.9
+Toys,Houston,Express,4.3
+Electronics,Los Angeles,Express,5.8
+Furniture,New York,Same-Day,2.9
+Furniture,Chicago,Standard,8.7
+Furniture,Houston,Express,5.9
+Books,Houston,Express,3.9
+Clothing,Houston,Same-Day,0.7
+Books,Chicago,Same-Day,1.5
+Furniture,New York,Same-Day,2.9
+Books,New York,Express,3.3
+Toys,Los Angeles,Same-Day,3.4
+Furniture,Chicago,Standard,10.1
+Electronics,Chicago,Same-Day,2.4
+Furniture,Chicago,Express,4.9
+Toys,Houston,Standard,9.8
+Books,Chicago,Express,3.5
+Electronics,Chicago,Same-Day,2.5
+Books,Chicago,Same-Day,1.5
+Electronics,New York,Same-Day,2.1
+Books,Chicago,Same-Day,1.4
+Clothing,New York,Standard,6.7
+Toys,Houston,Standard,8.2
+Clothing,New York,Standard,7.0
+Furniture,Chicago,Express,5.2
+Toys,New York,Same-Day,1.1
+Clothing,Houston,Express,4.1
+Furniture,Houston,Standard,9.9
+Toys,Los Angeles,Same-Day,3.3
+Furniture,Houston,Express,4.7
+Furniture,Los Angeles,Standard,10.5
+Electronics,Los Angeles,Express,5.6
+Toys,Houston,Same-Day,1.5
+Electronics,Chicago,Express,4.3
+Books,Los Angeles,Same-Day,1.8
+Furniture,Houston,Standard,9.3
+Electronics,Los Angeles,Standard,8.6
+Books,Los Angeles,Same-Day,1.4
+Books,New York,Same-Day,1.9
+Furniture,Chicago,Same-Day,4.0
+Electronics,Phoenix,Same-Day,4.1
+Furniture,Chicago,Standard,9.9
+Clothing,Chicago,Same-Day,0.9
+Clothing,New York,Standard,6.7
+Clothing,Los Angeles,Express,4.2
+Electronics,Chicago,Same-Day,1.9
+Toys,Chicago,Express,4.4
+Toys,Los Angeles,Same-Day,2.4
+Electronics,New York,Express,3.8
+Books,Houston,Same-Day,2.4
+Books,Houston,Same-Day,2.2
+Electronics,Los Angeles,Express,4.8
+Electronics,Houston,Express,5.6
+Toys,Chicago,Standard,7.5
+Toys,Phoenix,Standard,9.3
+Clothing,Houston,Same-Day,2.3
+Electronics,New York,Same-Day,1.8
+Clothing,Chicago,Standard,7.7
+Clothing,Chicago,Same-Day,0.9
+Clothing,Chicago,Same-Day,2.0
+Furniture,New York,Express,4.9
+Clothing,Phoenix,Express,4.2
+Clothing,Chicago,Same-Day,2.0
+Toys,New York,Same-Day,1.1
+Clothing,Phoenix,Same-Day,1.8
+Clothing,Los Angeles,Same-Day,1.2
+Toys,Phoenix,Express,5.3
+Toys,New York,Standard,6.9
+Electronics,New York,Same-Day,2.9
+Toys,Chicago,Same-Day,1.0
+Clothing,Phoenix,Express,5.3
+Toys,New York,Express,3.6
+Toys,Chicago,Same-Day,2.0
+Furniture,Houston,Standard,9.7
+Books,Chicago,Express,3.7
+Electronics,New York,Standard,8.0
+Books,Houston,Express,4.6
+Books,Los Angeles,Express,4.1
+Toys,Los Angeles,Express,4.6
+Furniture,Chicago,Express,5.3
+Clothing,Chicago,Same-Day,1.5
+Toys,New York,Express,3.7
+Clothing,Houston,Standard,7.1
+Furniture,Houston,Standard,9.3
+Clothing,New York,Standard,7.4
+Furniture,Houston,Same-Day,4.1
+Books,Los Angeles,Standard,7.9
+Furniture,Phoenix,Same-Day,4.5
+Furniture,Los Angeles,Standard,10.2
+Books,Phoenix,Express,4.2
+Books,Chicago,Express,3.1
+Electronics,New York,Express,4.1
+Toys,Houston,Standard,8.0
+Clothing,Phoenix,Express,4.7
+Electronics,New York,Express,3.1
+Books,Phoenix,Same-Day,3.0
+Books,Chicago,Same-Day,1.7
+Electronics,New York,Express,4.1
+Clothing,Chicago,Same-Day,2.0
+Furniture,Houston,Express,6.8
+Electronics,Houston,Standard,9.5
+Toys,Phoenix,Standard,8.1
+Furniture,Phoenix,Express,5.9
+Electronics,Houston,Same-Day,2.7
+Books,Phoenix,Express,4.5
+Toys,Phoenix,Standard,9.3
+Clothing,New York,Express,2.6
+Furniture,Chicago,Same-Day,3.6
+Furniture,Los Angeles,Standard,9.6
+Toys,Phoenix,Express,4.7
+Toys,New York,Standard,6.8
+Electronics,Los Angeles,Same-Day,2.5
+Furniture,Houston,Same-Day,3.3
+Books,Los Angeles,Same-Day,1.5
+Toys,Los Angeles,Express,5.0
+Toys,Chicago,Standard,7.5
+Books,Phoenix,Same-Day,3.8
+Furniture,Phoenix,Express,6.7
+Toys,Phoenix,Same-Day,3.1
+Books,Phoenix,Express,4.1
+Books,New York,Express,3.4
+Furniture,New York,Express,4.7
+Toys,Chicago,Same-Day,2.1
+Electronics,Phoenix,Express,6.8
+Furniture,Phoenix,Same-Day,4.5
+Clothing,New York,Same-Day,1.6
+Books,Los Angeles,Same-Day,1.6
+Toys,Houston,Standard,8.5
+Clothing,New York,Same-Day,1.9
+Electronics,Los Angeles,Standard,8.7
+Books,Chicago,Express,4.4
+Clothing,Houston,Same-Day,2.4
+Clothing,Houston,Same-Day,1.7
+Toys,Houston,Same-Day,2.8
+Electronics,Los Angeles,Same-Day,3.5
+Clothing,Phoenix,Express,4.8
+Books,Phoenix,Express,3.7
+Furniture,Los Angeles,Express,5.6
+Toys,Chicago,Same-Day,1.9
+Furniture,Chicago,Same-Day,3.5
+Books,Los Angeles,Standard,8.3
+Furniture,Phoenix,Express,6.6
+Clothing,Chicago,Express,2.8
+Clothing,Houston,Express,4.2
+Books,Chicago,Same-Day,1.8
+Furniture,Chicago,Standard,9.8
+Toys,Phoenix,Express,5.5
+Books,Chicago,Standard,7.9
+Furniture,New York,Express,5.2
+Electronics,Chicago,Express,4.5
+Furniture,Houston,Standard,9.2
+Clothing,Phoenix,Express,4.7
+Toys,Chicago,Standard,8.1
+Electronics,Phoenix,Same-Day,3.6
+Toys,Los Angeles,Standard,7.9
+Electronics,Phoenix,Standard,9.0
+Clothing,New York,Standard,7.5
+Books,Chicago,Same-Day,1.5
+Books,New York,Same-Day,1.3
+Clothing,New York,Same-Day,1.0
+Clothing,Houston,Same-Day,2.0
+Books,Houston,Same-Day,2.5
+Clothing,Chicago,Express,3.2
+Furniture,New York,Standard,9.0
+Toys,Los Angeles,Same-Day,2.3
+Electronics,Los Angeles,Express,4.8
+Clothing,New York,Express,2.8
+Books,Los Angeles,Same-Day,2.1
+Furniture,New York,Standard,8.8
+Furniture,Phoenix,Same-Day,5.1
+Electronics,Chicago,Express,4.1
+Books,Phoenix,Same-Day,2.4
+Books,Los Angeles,Same-Day,1.8
+Books,Chicago,Standard,8.2
+Electronics,Chicago,Standard,8.6
+Books,Chicago,Same-Day,2.0
+Clothing,New York,Same-Day,0.3
+Furniture,Chicago,Same-Day,3.6
+Clothing,Los Angeles,Same-Day,2.4
+Books,Houston,Same-Day,2.0
+Furniture,New York,Express,5.5
+Electronics,Los Angeles,Standard,8.7
+Books,Chicago,Standard,8.2
+Electronics,Chicago,Express,5.6
+Clothing,Houston,Express,3.8
+Furniture,Chicago,Same-Day,3.3
+Toys,New York,Express,4.2
+Furniture,Los Angeles,Standard,10.8
+Electronics,Houston,Express,4.7
+Clothing,Houston,Same-Day,1.8
+Toys,Chicago,Same-Day,1.9
+Electronics,Chicago,Express,3.8
+Toys,Los Angeles,Standard,8.0
+Clothing,Houston,Standard,7.5
+Books,Phoenix,Express,4.1
+Books,Phoenix,Express,4.5
+Toys,Los Angeles,Standard,8.6
+Toys,New York,Same-Day,2.3
+Books,Phoenix,Same-Day,2.0
+Furniture,New York,Same-Day,3.5
+Electronics,New York,Same-Day,1.9
+Toys,Los Angeles,Same-Day,2.5
+Toys,Los Angeles,Standard,8.8
+Furniture,Phoenix,Express,5.9
+Electronics,Los Angeles,Same-Day,3.2
+Toys,Houston,Standard,8.6
+Toys,Houston,Standard,8.7
+Books,Los Angeles,Same-Day,2.1
+Books,Houston,Same-Day,3.2
+Electronics,Phoenix,Express,5.2
+Furniture,New York,Express,4.7
+Furniture,New York,Same-Day,2.7
+Clothing,Phoenix,Standard,8.2
+Electronics,Houston,Express,4.7
+Electronics,Phoenix,Standard,10.1
+Electronics,Houston,Standard,9.7
+Furniture,Houston,Standard,9.7
+Clothing,Houston,Express,3.6
+Books,Houston,Express,4.2
+Books,New York,Same-Day,0.7
+Toys,Los Angeles,Same-Day,2.8
+Furniture,New York,Standard,9.1
+Toys,Houston,Same-Day,1.7
+Clothing,Los Angeles,Standard,8.8
+Electronics,Chicago,Express,5.4
+Toys,Houston,Same-Day,2.2
+Books,Los Angeles,Standard,7.8
+Books,Chicago,Standard,7.6
+Furniture,Los Angeles,Same-Day,4.2
+Electronics,New York,Same-Day,2.3
+Books,Phoenix,Standard,9.5
+Clothing,Los Angeles,Standard,7.9
+Electronics,Phoenix,Standard,9.1
+Books,Phoenix,Same-Day,1.8
+Electronics,Los Angeles,Same-Day,2.6
+Electronics,Houston,Express,5.0
+Clothing,Phoenix,Standard,9.4
+Electronics,Los Angeles,Same-Day,2.7
+Furniture,Los Angeles,Same-Day,4.1
+Toys,Chicago,Same-Day,2.0
+Toys,Chicago,Standard,8.6
+Furniture,Los Angeles,Same-Day,5.3
+Toys,Los Angeles,Express,4.2
+Furniture,Chicago,Standard,9.3
+Toys,Phoenix,Same-Day,3.5
+Clothing,Houston,Same-Day,2.3
+Books,New York,Express,3.9
+Books,Phoenix,Express,4.8
+Books,Houston,Standard,7.8
+Furniture,Houston,Standard,10.3
+Toys,Houston,Standard,9.1
+Clothing,Chicago,Same-Day,1.9
+Clothing,Houston,Standard,8.3
+Toys,Houston,Express,5.0
+Toys,Phoenix,Standard,9.6
+Books,Los Angeles,Express,4.7
+Clothing,Chicago,Same-Day,1.8
+Electronics,Houston,Express,4.9
+Electronics,Phoenix,Same-Day,3.6
+Clothing,New York,Express,3.6
+Books,Phoenix,Same-Day,2.1
+Electronics,New York,Standard,8.2
+Toys,Phoenix,Standard,8.8
+Books,Los Angeles,Express,4.0
+Furniture,New York,Standard,9.6
+Clothing,New York,Same-Day,1.1
+Books,Los Angeles,Same-Day,2.0
+Toys,Los Angeles,Express,3.8
+Clothing,Phoenix,Express,4.9
+Furniture,Houston,Express,6.3
+Toys,Chicago,Express,5.1
+Furniture,Chicago,Same-Day,3.3
+Books,Houston,Standard,8.1
+Books,Chicago,Standard,7.6
+Furniture,Chicago,Express,6.3
+Electronics,Phoenix,Standard,9.5
+Clothing,New York,Express,3.1
+Toys,Phoenix,Same-Day,3.3
+Books,Chicago,Standard,7.6
+Clothing,Chicago,Standard,7.3
+Books,Phoenix,Standard,8.6
+Books,Phoenix,Same-Day,3.0
+Furniture,Chicago,Express,5.0
+Books,Houston,Standard,8.1
+Furniture,Los Angeles,Standard,9.6
+Toys,Houston,Standard,9.1
+Toys,New York,Same-Day,0.7
+Electronics,New York,Same-Day,1.7
+Electronics,New York,Express,4.2
+Clothing,Los Angeles,Standard,8.8
+Clothing,New York,Standard,7.0
+Toys,Houston,Express,4.2
+Electronics,Phoenix,Same-Day,4.4
+Toys,Houston,Same-Day,1.8
+Books,New York,Standard,5.9
+Toys,Phoenix,Express,5.2
+Electronics,New York,Same-Day,1.7
+Furniture,Phoenix,Express,6.0
+Electronics,Phoenix,Same-Day,3.9
+Books,Los Angeles,Standard,8.1
+Electronics,Phoenix,Standard,9.2
+Clothing,Los Angeles,Same-Day,1.4
+Toys,Chicago,Express,4.4
+Furniture,Houston,Standard,10.3
+Furniture,Houston,Express,6.0
+Toys,Los Angeles,Same-Day,3.4
+Clothing,Chicago,Same-Day,1.0
+Electronics,New York,Standard,7.2
+Books,Houston,Express,3.7
+Toys,Houston,Standard,8.5
+Electronics,Los Angeles,Standard,9.1
+Books,Houston,Same-Day,1.9
+Furniture,Phoenix,Standard,10.7
+Toys,New York,Standard,6.9
+Clothing,Phoenix,Express,5.2
+Furniture,New York,Standard,9.0
+Furniture,Phoenix,Same-Day,5.1
+Electronics,Los Angeles,Express,5.2
+Electronics,Los Angeles,Same-Day,3.2
+Clothing,Houston,Standard,8.3
+Furniture,Los Angeles,Same-Day,4.2
+Clothing,Phoenix,Express,4.8
+Toys,Chicago,Express,4.7
+Clothing,New York,Same-Day,1.1
+Furniture,New York,Standard,9.4
+Books,Los Angeles,Standard,8.0
+Furniture,Phoenix,Same-Day,5.2
+Toys,Houston,Express,4.2
+Electronics,Chicago,Express,5.4
+Books,Los Angeles,Express,4.0
+Toys,Houston,Express,3.8
+Clothing,Phoenix,Same-Day,2.6
+Books,New York,Same-Day,0.7
+Furniture,Los Angeles,Same-Day,4.4
+Electronics,New York,Express,3.7
+Clothing,Houston,Same-Day,1.8
+Clothing,Houston,Express,3.1
+Furniture,New York,Standard,8.8
+Electronics,Chicago,Express,3.3
+Furniture,Chicago,Standard,8.7
+Clothing,New York,Standard,7.4
+Books,Houston,Same-Day,2.4
+Toys,Phoenix,Express,5.2
+Electronics,New York,Standard,7.5
+Furniture,Phoenix,Standard,10.5
+Toys,Phoenix,Express,5.0
+Books,New York,Express,2.4
+Books,Houston,Standard,8.8
+Toys,Los Angeles,Same-Day,2.9
+Toys,Los Angeles,Same-Day,2.4
+Books,Los Angeles,Standard,8.0
+Furniture,Chicago,Express,5.6
+Books,Los Angeles,Standard,7.0
+Clothing,Houston,Express,3.9
+Books,Chicago,Express,3.2
+Electronics,Chicago,Express,4.0
+Clothing,Houston,Same-Day,1.9
+Toys,Los Angeles,Express,5.4
+Electronics,Los Angeles,Express,5.3
+Electronics,Houston,Express,4.7
+Toys,Houston,Express,4.8
