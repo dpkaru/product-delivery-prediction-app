@@ -1,27 +1,29 @@
 import streamlit as st
 import pandas as pd
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.compose import ColumnTransformer
-from sklearn.pipeline import Pipeline
+import pickle
 
-# Load dataset from CSV
-df = pd.read_csv(order_details_dataset)
+# Load trained model
+model = pickle.load(open('delivery_time_model.pkl', 'rb'))
 
+# Feature names from training
+feature_names = model.feature_names_in_
 
-df = load_data(uploaded_file)    
-st.write("Preview of your dataset:", df.head())
+# UI
+st.title("Delivery Time Predictor")
 
-# User input
-product = st.selectbox("Select Product Category", product_categories)
-location = st.selectbox("Select Customer Location", locations)
-shipping = st.selectbox("Select Shipping Method", shipping_methods)
+# Input widgets
+product_category = st.selectbox("Product Category", ['Electronics', 'Furniture', 'Clothing', 'Toys', 'Books'])
+customer_location = st.selectbox("Customer Location", ['New York', 'Los Angeles'])
+shipping_method = st.selectbox("Shipping Method", ['Same-Day', 'Standard'])
 
+# Prepare input
+input_df = pd.DataFrame([[product_category, customer_location, shipping_method]],
+                        columns=['Product_Category', 'Customer_Location', 'Shipping_Method'])
+
+# One-hot encoding
+input_encoded = pd.get_dummies(input_df).reindex(columns=feature_names, fill_value=0)
+
+# Predict
 if st.button("Predict Delivery Time"):
-        user_input = pd.DataFrame([[product, location, shipping]],
-        columns=['Product_Category', 'Customer_Location', 'Shipping_Method'])
-        prediction = model.predict(user_input)[0]
-        st.success(f" Estimated Delivery Time: **{prediction:.1f} days**")
-else:
-    st.info("Please upload a CSV file to get started.")
+    prediction = model.predict(input_encoded)[0]
+    st.success(f"📬 Estimated delivery time: **{round(prediction, 2)} days**")
